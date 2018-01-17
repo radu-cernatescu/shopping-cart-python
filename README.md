@@ -1,1 +1,1 @@
-# shopping-cart-python
+This is the code for a shopping cart, which can be used to calculate tax and shipping based on customer input location. The items in the shopping cart are predetermined, but the code can easily be revised to allow the customer to input their own products into the shopping cart. This was just some coding practice to better understand OOP. It is coded in Python 2.7, and to run the program, please compile and run shopping_cart.py. A good IDE to use is Portable Python 2.7.
